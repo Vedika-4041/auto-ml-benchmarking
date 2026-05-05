@@ -1,7 +1,7 @@
 """
 Universal ML Comparator - Interactive Streamlit Application
 Supports: Binary Classification, Multiclass Classification, Regression
-Built by Abhijit Lalasaheb Zende
+Built by Vedika Patil
 """
 
 import streamlit as st
@@ -819,7 +819,7 @@ def main():
     <div style='text-align: center; color: gray;'>
         <p><strong>ML Model Comparator</strong> &mdash;
         Binary Classification &middot; Multiclass Classification &middot; Regression</p>
-        <p>Built by <strong>Abhijit Lalasaheb Zende</strong></p>
+        <p>Built by <strong>Vedika Patil</strong></p>
     </div>
     """, unsafe_allow_html=True)
 

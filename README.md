@@ -1,6 +1,6 @@
 # ML Model Comparator — Universal Supervised Learning App
 
-**Author:** Abhijit Lalasaheb Zende
+**Author:** Vedika Patil
 
 **Jio Institute ID:** 26PGPAI0009
 
@@ -238,5 +238,5 @@ Consider sampling the dataset before uploading.
 
 ---
 
-**Built by Abhijit Lalasaheb Zende**
+**Built by Vedika Patil**
 PGP in Artificial Intelligence and Data Science · Jio Institute · 2026
