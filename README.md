@@ -101,7 +101,6 @@ The app works with **any supervised learning CSV** where:
 |---------|------|--------|
 | v1 | Binary Classification | ✅ Done |
 | v2 | Multiclass Classification + Regression | ✅ Done |
-| v3 | Hyperparameter tuning UI, feature importance plots | 🔜 Planned |
 
 ---
 
