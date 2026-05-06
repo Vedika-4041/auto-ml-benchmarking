@@ -1,13 +1,6 @@
 # ML Model Comparator — Universal Supervised Learning App
 
 **Author:** Vedika Patil
-
-**Jio Institute ID:** 26PGPAI0009
-
-**Program:** PGP in Artificial Intelligence and Data Science
-
-**Institution:** Jio Institute
-
 ---
 
 ## Overview
@@ -144,8 +137,8 @@ ml-model-comparator/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Abhiz2411/ml-benchmark-app.git
-cd ml-benchmark-app
+git clone https://github.com/Vedika-4041/auto-ml-benchmarking.git
+cd auto-ml-benchmarking
 ```
 
 ### Step 2: Create and Activate Virtual Environment
@@ -237,6 +230,3 @@ Consider sampling the dataset before uploading.
 4. Streamlit Documentation — https://docs.streamlit.io/
 
 ---
-
-**Built by Vedika Patil**
-PGP in Artificial Intelligence and Data Science · Jio Institute · 2026
